@@ -2,7 +2,7 @@
 
 This is a technical test build for consuming an endpoint and displaying the data as well as saving the data to a local database
 
-![alt text](https://raw.githubusercontent.com/merRen22/recipes-code-challenge/main/showcase/1.jpg)
+![alt text](https://raw.githubusercontent.com/merRen22/recipes-code-challenge/main/showcase/1.png)
 ![alt text](https://raw.githubusercontent.com/merRen22/recipes-code-challenge/main/showcase/2.jpg)
 
 ### Libraries used
