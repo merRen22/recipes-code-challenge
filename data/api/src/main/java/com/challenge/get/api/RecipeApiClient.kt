@@ -14,7 +14,7 @@ class RecipeApiClient(retrofit: Retrofit) : RecipesApi {
 
     interface Service {
 
-        @GET("071e5c74c8c42e37143d")
+        @GET("recipes_data")
         suspend fun getRecipes(
         ): ListResponse
     }

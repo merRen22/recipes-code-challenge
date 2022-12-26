@@ -46,7 +46,7 @@ class NetworkModule {
     fun provideRetrofit(okHttpClient: OkHttpClient, converterFactory: Converter.Factory): Retrofit {
         return Retrofit.Builder()
             .client(okHttpClient)
-            .baseUrl("https://api.npoint.io/")
+            .baseUrl("https://raw.githubusercontent.com/merRen22/recipes-code-challenge/main/")
             .addConverterFactory(converterFactory)
             .build()
     }

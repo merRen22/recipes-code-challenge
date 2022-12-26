@@ -14,7 +14,7 @@
         android:theme="@style/Theme.App.Starting"
         tools:ignore="GoogleAppIndexingWarning">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="introduce_api_key"/>
+            android:value="google_api_key"/>
         <activity
             android:name=".ui.activity.MainActivity"
             android:exported="true"

@@ -2,6 +2,9 @@
 
 This is a technical test build for consuming an endpoint and displaying the data as well as saving the data to a local database
 
+![alt text](https://raw.githubusercontent.com/merRen22/recipes-code-challenge/main/showcase/1.jpg)
+![alt text](https://raw.githubusercontent.com/merRen22/recipes-code-challenge/main/showcase/2.jpg)
+
 ### Libraries used
 
 - Navigation (Fragment transitions)
@@ -29,3 +32,11 @@ The project contains the following modules:
 ## Architecture
 
 This app was build using MVVM and following the guidelines explain [here](https://developer.android.com/jetpack/docs/guide). This app also makes use of the pattern single activity.
+
+## Maps api key
+
+In order to use the ```LocationScreen``` you need to add your own maps api key in the manifest as seen below 👇:
+```xml
+        <meta-data android:name="com.google.android.geo.API_KEY"
+            android:value="google_api_key"/>
+```
