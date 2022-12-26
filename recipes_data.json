@@ -1,0 +1,95 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Bolognese",
+      "origin": {
+        "name": "Bologna, Italy",
+        "latitude": 44.493889,
+        "longitude": 11.342778
+      },
+      "image_url": "https://img.freepik.com/foto-gratis/spaghetti-bolonesa_141793-17590.jpg?w=2000&t=st=1671915685~exp=1671916285~hmac=30cb9ef16abcc75786c1afbdd61fba2a2d527ef34ce639f561f9a08997f5655b",
+      "description": "A classic Italian dish made with ground beef, tomatoes, and spaghetti noodles",
+      "ingredients": [
+        "1 pound ground beef",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 can (14.5 ounces) diced tomatoes",
+        "1 can (6 ounces) tomato paste",
+        "1 cup beef broth",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried basil",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon pepper",
+        "1 pound spaghetti noodles"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Peking Duck",
+      "origin": {
+        "name": "Beijing, China",
+        "latitude": 39.904211,
+        "longitude": 116.407395
+      },
+      "image_url": "https://img.freepik.com/fotos-premium/rollito-primavera-crujiente-pato-pekin-salsa-servido-bandeja-aislada-vista-lateral-alfombra-sobre-fondo-marmol-gris-comida-rapida_689047-1284.jpg?w=2000",
+      "description": "A Chinese dish featuring roast duck with crispy skin and savory meat, served with pancakes and hoisin sauce",
+      "ingredients": [
+        "1 whole duck (5-6 pounds)",
+        "1 tablespoon honey",
+        "1 tablespoon five-spice powder",
+        "1 teaspoon salt",
+        "1/4 cup hoisin sauce",
+        "2 tablespoons rice vinegar",
+        "1/4 cup water",
+        "2 cloves garlic, minced",
+        "1/4 teaspoon white pepper",
+        "1/4 cup green onions, thinly sliced",
+        "1/4 cup cilantro, chopped",
+        "24 small wheat pancakes"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Taco Salad",
+      "origin": {
+        "name": "Mexico",
+        "latitude": 23.634501,
+        "longitude": -102.552784
+      },
+      "image_url": "https://img.freepik.com/foto-gratis/tacos-mexicanos-carne-res-salsa-tomate-salsa_2829-14218.jpg?w=2000&t=st=1671915751~exp=1671916351~hmac=deee87190971d96009a35eb3b7aa282ecfd971a39e9c60eba0b84ef683cde141",
+      "description": "A Mexican-inspired salad with ground beef, beans, cheese, and a homemade dressing",
+      "ingredients": [
+        "1 pound ground beef",
+        "1 packet taco seasoning",
+        "1 can (15 ounces) black beans, rinsed and drained",
+        "1 head romaine lettuce, chopped",
+        "1 cup cherry tomatoes, halved",
+        "1 cup shredded cheese",
+        "1/2 cup sour cream",
+        "1/4 cup mayonnaise",
+        "1/4 cup salsa",
+        "1/4 cup cilantro, chopped",
+        "1/4 cup green onions, thinly sliced",
+        "1/4 cup crumbled tortilla chips"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pizza Margherita",
+      "origin": {
+        "name": "Italy",
+        "latitude": 41.8719,
+        "longitude": 12.5674
+      },
+      "image_url": "https://www.recetasderechupete.com/wp-content/uploads/2017/01/pizza_margarita.jpg",
+      "description": "A traditional Italian pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "ingredients": [
+        "pizza dough",
+        "tomato sauce",
+        "mozzarella cheese",
+        "basil"
+      ]
+    }
+  ]
+}

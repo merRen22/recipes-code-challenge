@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mimoChallenge/app/src/main/res/layout/activity_main.xml" value="0.29483695652173914" />
+        <entry key="..\:/mimoChallenge/app/src/main/res/layout/main_fragment.xml" value="0.4466666666666667" />
+        <entry key="..\:/mimoChallenge/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.34791666666666665" />
+        <entry key="..\:/mimoChallenge/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.5620512820512821" />
+        <entry key="..\:/mimoChallenge/dynamic/summary/src/main/res/layout/fragment_summary.xml" value="0.328125" />
+        <entry key="..\:/mimoChallenge/feature/lesson/src/main/res/layout/fragment_lesson.xml" value="0.225" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
